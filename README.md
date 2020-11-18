@@ -21,3 +21,23 @@
 10. 레벨을 Maps 폴더에 저장해보자.
 
 제출은 Screenshot만 제출한다.
+
+//////////////////////////////////////////////////////////////////////////////// 내일 할 것
+
+direct Lighting (직사광)
+
+indirect Light(Bounced Light) 직접 닿는게 아니라 반사되어 비추는(반사광)
+
+static Light 
+
+Dynamic Light 
+
+Shadow
+
+-- Light 의 종류 --
+Directional Light 
+Point Light (사방에 뿌리는 빛)
+sky Light(태양이 가려도 쏘는 빛?)
+spot Light(전등)
+
+
